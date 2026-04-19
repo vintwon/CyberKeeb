@@ -19,10 +19,17 @@ This way the usb-c port is centered in the back of the board and It gives me roo
 
 <img width="2297" alt="image" src="https://github.com/user-attachments/assets/761befd8-e930-445f-bad6-36ef673a1eb7" />
 
+Oh! And here is the pcb!
+
+
+<img width="1808" alt="image" src="https://github.com/user-attachments/assets/8f11204c-6ad8-481c-8968-955927841cc2" />
+
+
+
 
 I went with a green and black theme simply because those are the colors of filament I have available right now. The geometrically interesting features are layerd, with each color on a different layer to provide depth.
 
-##BOM
+## BOM
 !!! WARNING: ALIEXPRESS PRICES ARE VOLATILE AND SUBJECT TO CHAGE !!!
 
 | Item                      | Link                                                                                                                                                                                                                                                              | Price(USD)               | Notes                                                                                              |
