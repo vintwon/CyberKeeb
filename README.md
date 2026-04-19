@@ -1,4 +1,5 @@
 # CyberKeeb
+<img width="1920" alt="render" src="https://github.com/user-attachments/assets/4b4ce114-33f3-4cf7-ac8c-d807ba7f5c08" />
 
 ## Some info...
 This started as boredom, and evolved into my second keyboard! The theme came from some inspiration I saw from another keyboard on reddit, so I decided to do something similar. I wanted to use a rpi pico w but I didn't want to have extra space at the edge of the board, so I decided to make a daughterboard type situation. 
