@@ -50,5 +50,8 @@ I went with a green and black theme simply because those are the colors of filam
 ### <a href="https://cad.onshape.com/documents/5317cbb2be7b5bc0767f3a0c/">CAD in onshape :3</a>
 <img width="2166" alt="image" src="https://github.com/user-attachments/assets/d7d94a21-65d5-4ed0-8f9f-d6e9bf7095f7" />
 
+## Zine!!!
+
+<img width="1125" alt="zine-1" src="https://github.com/user-attachments/assets/b6924a3f-6d8d-4a99-93af-e843186c52a2" />
 
 ## Build instructions coming soon!
