@@ -1,4 +1,5 @@
 # CyberKeeb
+<img width="1920" alt="render" src="https://github.com/user-attachments/assets/4b4ce114-33f3-4cf7-ac8c-d807ba7f5c08" />
 
 ## Some info...
 This started as boredom, and evolved into my second keyboard! The theme came from some inspiration I saw from another keyboard on reddit, so I decided to do something similar. I wanted to use a rpi pico w but I didn't want to have extra space at the edge of the board, so I decided to make a daughterboard type situation. 
@@ -23,6 +24,8 @@ Oh! And here is the pcb!
 
 
 <img width="1808" alt="image" src="https://github.com/user-attachments/assets/8f11204c-6ad8-481c-8968-955927841cc2" />
+<img width="1629" alt="image" src="https://github.com/user-attachments/assets/86385091-69a4-4d13-9531-6849b2b662b2" />
+<img width="2027" alt="image" src="https://github.com/user-attachments/assets/6b7be199-d3d9-4cc7-a1bd-76a4ef92db36" />
 
 
 
@@ -46,3 +49,6 @@ I went with a green and black theme simply because those are the colors of filam
 
 ### <a href="https://cad.onshape.com/documents/5317cbb2be7b5bc0767f3a0c/">CAD in onshape :3</a>
 <img width="2166" alt="image" src="https://github.com/user-attachments/assets/d7d94a21-65d5-4ed0-8f9f-d6e9bf7095f7" />
+
+
+## Build instructions coming soon!
