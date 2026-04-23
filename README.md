@@ -24,6 +24,8 @@ Oh! And here is the pcb!
 
 
 <img width="1808" alt="image" src="https://github.com/user-attachments/assets/8f11204c-6ad8-481c-8968-955927841cc2" />
+<img width="1629" alt="image" src="https://github.com/user-attachments/assets/86385091-69a4-4d13-9531-6849b2b662b2" />
+<img width="2027" alt="image" src="https://github.com/user-attachments/assets/6b7be199-d3d9-4cc7-a1bd-76a4ef92db36" />
 
 
 
