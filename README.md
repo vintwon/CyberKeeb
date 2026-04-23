@@ -30,7 +30,8 @@ Oh! And here is the pcb!
 
 
 
-I went with a green and black theme simply because those are the colors of filament I have available right now. The geometrically interesting features are layerd, with each color on a different layer to provide depth.
+I went with a green and black theme simply because those are the colors of filament I have available right now. The geometrically interesting features are layerd, with each color on a different layer to provide depth. 
+**ALSO VIA IS BEING USED YAYYY**
 
 ## BOM
 !!! WARNING: ALIEXPRESS PRICES ARE VOLATILE AND SUBJECT TO CHAGE !!!
